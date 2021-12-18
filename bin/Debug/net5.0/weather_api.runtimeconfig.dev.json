@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/tejas/.dotnet/store/|arch|/|tfm|",
+      "/home/tejas/.nuget/packages"
+    ]
+  }
+}
